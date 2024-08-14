@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "v2Ucc39yQww=",
+  "success": true,
+  "projectFilePath": "C:\\Scripts\\CSharpProjects\\c-sharp-10-object-oriented-programming\\07\\demos\\Demo 4\\BethanysPieShop.InventoryManagement\\BethanysPieShop.InventoryManagement\\BethanysPieShop.InventoryManagement.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://www.nuget.org/api/v2'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

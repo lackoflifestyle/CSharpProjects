@@ -1,0 +1,6 @@
+C:\Scripts\CSharpProjects\c-sharp-10-fundamentals\13\demos\end\BethanysPieShopHRM\BethanysPieShopHRM\obj\Debug\net8.0\BethanysPieShopHRM.csproj.AssemblyReference.cache
+C:\Scripts\CSharpProjects\c-sharp-10-fundamentals\13\demos\end\BethanysPieShopHRM\BethanysPieShopHRM\obj\Debug\net8.0\BethanysPieShopHRM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Scripts\CSharpProjects\c-sharp-10-fundamentals\13\demos\end\BethanysPieShopHRM\BethanysPieShopHRM\obj\Debug\net8.0\BethanysPieShopHRM.AssemblyInfoInputs.cache
+C:\Scripts\CSharpProjects\c-sharp-10-fundamentals\13\demos\end\BethanysPieShopHRM\BethanysPieShopHRM\obj\Debug\net8.0\BethanysPieShopHRM.AssemblyInfo.cs
+C:\Scripts\CSharpProjects\c-sharp-10-fundamentals\13\demos\end\BethanysPieShopHRM\BethanysPieShopHRM\obj\Debug\net8.0\BethanysPieShopHRM.csproj.CoreCompileInputs.cache
+C:\Scripts\CSharpProjects\c-sharp-10-fundamentals\13\demos\end\BethanysPieShopHRM\BethanysPieShopHRM\obj\Debug\net8.0\BethanysPieShopHRM.sourcelink.json

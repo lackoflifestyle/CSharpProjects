@@ -1,0 +1,14 @@
+C:\Users\morse\source\repos\Samples.Debugging.ConsoleApp\Samples.Debugging.ConsoleApp\bin\Debug\net8.0\Samples.Debugging.ConsoleApp.exe
+C:\Users\morse\source\repos\Samples.Debugging.ConsoleApp\Samples.Debugging.ConsoleApp\bin\Debug\net8.0\Samples.Debugging.ConsoleApp.deps.json
+C:\Users\morse\source\repos\Samples.Debugging.ConsoleApp\Samples.Debugging.ConsoleApp\bin\Debug\net8.0\Samples.Debugging.ConsoleApp.runtimeconfig.json
+C:\Users\morse\source\repos\Samples.Debugging.ConsoleApp\Samples.Debugging.ConsoleApp\bin\Debug\net8.0\Samples.Debugging.ConsoleApp.dll
+C:\Users\morse\source\repos\Samples.Debugging.ConsoleApp\Samples.Debugging.ConsoleApp\bin\Debug\net8.0\Samples.Debugging.ConsoleApp.pdb
+C:\Users\morse\source\repos\Samples.Debugging.ConsoleApp\Samples.Debugging.ConsoleApp\obj\Debug\net8.0\Samples.Debugging.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\morse\source\repos\Samples.Debugging.ConsoleApp\Samples.Debugging.ConsoleApp\obj\Debug\net8.0\Samples.Debugging.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\morse\source\repos\Samples.Debugging.ConsoleApp\Samples.Debugging.ConsoleApp\obj\Debug\net8.0\Samples.Debugging.ConsoleApp.AssemblyInfo.cs
+C:\Users\morse\source\repos\Samples.Debugging.ConsoleApp\Samples.Debugging.ConsoleApp\obj\Debug\net8.0\Samples.Debugging.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\morse\source\repos\Samples.Debugging.ConsoleApp\Samples.Debugging.ConsoleApp\obj\Debug\net8.0\Samples.Debugging.ConsoleApp.dll
+C:\Users\morse\source\repos\Samples.Debugging.ConsoleApp\Samples.Debugging.ConsoleApp\obj\Debug\net8.0\refint\Samples.Debugging.ConsoleApp.dll
+C:\Users\morse\source\repos\Samples.Debugging.ConsoleApp\Samples.Debugging.ConsoleApp\obj\Debug\net8.0\Samples.Debugging.ConsoleApp.pdb
+C:\Users\morse\source\repos\Samples.Debugging.ConsoleApp\Samples.Debugging.ConsoleApp\obj\Debug\net8.0\Samples.Debugging.ConsoleApp.genruntimeconfig.cache
+C:\Users\morse\source\repos\Samples.Debugging.ConsoleApp\Samples.Debugging.ConsoleApp\obj\Debug\net8.0\ref\Samples.Debugging.ConsoleApp.dll

@@ -1,4 +1,5 @@
-﻿using BethanysPieShopHRM.Logic;
+﻿//using BethanysPieShopHRM.Logic;
+using BethanysPieShopHRM;
 using Newtonsoft.Json;
 
 namespace BethanysPieShopHRM.HR

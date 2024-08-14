@@ -1,0 +1,7 @@
+C:\Scripts\CSharpProjects\c-sharp-10-fundamentals\13\demos\start\BethanysPieShopHRM\BethanysPieShopHRM.Tests\bin\Debug\net8.0\CoverletSourceRootsMapping
+C:\Scripts\CSharpProjects\c-sharp-10-fundamentals\13\demos\start\BethanysPieShopHRM\BethanysPieShopHRM.Tests\obj\Debug\net8.0\BethanysPieShopHRM.Tests.csproj.AssemblyReference.cache
+C:\Scripts\CSharpProjects\c-sharp-10-fundamentals\13\demos\start\BethanysPieShopHRM\BethanysPieShopHRM.Tests\obj\Debug\net8.0\BethanysPieShopHRM.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Scripts\CSharpProjects\c-sharp-10-fundamentals\13\demos\start\BethanysPieShopHRM\BethanysPieShopHRM.Tests\obj\Debug\net8.0\BethanysPieShopHRM.Tests.AssemblyInfoInputs.cache
+C:\Scripts\CSharpProjects\c-sharp-10-fundamentals\13\demos\start\BethanysPieShopHRM\BethanysPieShopHRM.Tests\obj\Debug\net8.0\BethanysPieShopHRM.Tests.AssemblyInfo.cs
+C:\Scripts\CSharpProjects\c-sharp-10-fundamentals\13\demos\start\BethanysPieShopHRM\BethanysPieShopHRM.Tests\obj\Debug\net8.0\BethanysPieShopHRM.Tests.csproj.CoreCompileInputs.cache
+C:\Scripts\CSharpProjects\c-sharp-10-fundamentals\13\demos\start\BethanysPieShopHRM\BethanysPieShopHRM.Tests\obj\Debug\net8.0\BethanysPieShopHRM.Tests.sourcelink.json
