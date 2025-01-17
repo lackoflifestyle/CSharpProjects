@@ -1,6 +1,6 @@
 ﻿namespace BethanysPieShop.InventoryManagement.Domain.ProductManagement
 {
-    public class Product // It's good practice to explicitly include your class access modifier ("public" in this case,) defaults to "internal"
+    public partial class Product // It's good practice to explicitly include your class access modifier ("public" in this case,) defaults to "internal"
     {
 
         // Fields
@@ -177,25 +177,6 @@
             }
 
             return sb.ToString();
-        }
-
-        private void UpdateLowStock()
-        {
-            if (AmountInStock < 10)//for now a fixed value
-            {
-                isBelowStockThreshold = true;
-            }
-        }
-
-        private void Log(string message)
-        {
-            //this could be written to a file
-            Console.WriteLine(message);
-        }
-
-        private string CreateSimpleProductRepresentation()
-        {
-            return $"Product {id} ({name})";
         }
     }
 }
