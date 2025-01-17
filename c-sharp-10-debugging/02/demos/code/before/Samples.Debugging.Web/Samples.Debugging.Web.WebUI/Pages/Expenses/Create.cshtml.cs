@@ -55,7 +55,7 @@ namespace Samples.Debugging.Web.WebUI.Pages.Expenses
             if (await TryUpdateModelAsync<Expense>(
                 emptyExpense,
                 "expense",
-                s => s.Description, s => s.DateIncurred, s => s.Location, s => s.Price))
+                s => s.Description, s => s.DateIncurred, s => s.Location, s => s.Price, s => s.ExpenseTypeID))
             {
 
                 emptyExpense.UserID = 123;

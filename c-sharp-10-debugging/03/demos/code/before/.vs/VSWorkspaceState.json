@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Samples.Debugging.Web",
+    "\\Samples.Debugging.Web\\Samples.Debugging.Web.WebUI",
+    "\\Samples.Debugging.Web\\Samples.Debugging.Web.WebUI\\Pages",
+    "\\Samples.Debugging.Web\\Samples.Debugging.Web.WebUI\\Pages\\Expenses"
+  ],
+  "SelectedNode": "\\Samples.Debugging.Web\\Samples.Debugging.Web.WebUI\\Pages\\Expenses\\Index.cshtml.cs",
+  "PreviewInSolutionExplorer": false
+}

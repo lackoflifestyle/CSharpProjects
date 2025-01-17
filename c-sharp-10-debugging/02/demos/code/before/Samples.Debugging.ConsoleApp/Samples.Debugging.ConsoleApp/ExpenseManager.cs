@@ -172,10 +172,11 @@ namespace Samples.Debugging.ConsoleApp.Expenses
 
             double total = 0;
 
-            for (int i = 1; i < numberOfExpenses; i++)
+            for (int i = 0; i < numberOfExpenses; i++)
             {
                 total += expenses[i].Amount;
             }
+
 
             Console.WriteLine($"Expenses Total: {total:C}\n");
 

@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "MathsOperators (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "MathsOperators (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}

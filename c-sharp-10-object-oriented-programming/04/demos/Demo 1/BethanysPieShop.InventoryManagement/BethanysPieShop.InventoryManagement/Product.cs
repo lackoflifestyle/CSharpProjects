@@ -1,6 +1,6 @@
 ﻿namespace BethanysPieShop.InventoryManagement
 {
-    public class Product
+    public class Product // It's good practice to explicitly include your class access modifier ("public" in this case,) defaults to "internal"
     {
 
         private int id;

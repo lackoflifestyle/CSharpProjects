@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "name": "C#: Samples.Debugging.ConsoleApp",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}\\02\\demos\\code\\before\\Samples.Debugging.ConsoleApp\\Samples.Debugging.ConsoleApp\\Samples.Debugging.ConsoleApp.csproj",
+            "launchConfigurationId": "TargetFramework=;Samples.Debugging.ConsoleApp"
+        }
+    ]
+}

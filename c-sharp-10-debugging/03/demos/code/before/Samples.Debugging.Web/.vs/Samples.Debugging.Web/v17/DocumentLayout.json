@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Scripts\\CSharpProjects\\c-sharp-10-debugging\\03\\demos\\code\\before\\Samples.Debugging.Web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4CDE5096-E1C0-4152-B318-75867781D528}|Samples.Debugging.Web.WebUI\\Samples.Debugging.Web.WebUI.csproj|c:\\scripts\\csharpprojects\\c-sharp-10-debugging\\03\\demos\\code\\before\\samples.debugging.web\\samples.debugging.web.webui\\pages\\expenses\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CDE5096-E1C0-4152-B318-75867781D528}|Samples.Debugging.Web.WebUI\\Samples.Debugging.Web.WebUI.csproj|solutionrelative:samples.debugging.web.webui\\pages\\expenses\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CDE5096-E1C0-4152-B318-75867781D528}|Samples.Debugging.Web.WebUI\\Samples.Debugging.Web.WebUI.csproj|c:\\scripts\\csharpprojects\\c-sharp-10-debugging\\03\\demos\\code\\before\\samples.debugging.web\\samples.debugging.web.webui\\pages\\expenses\\report.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CDE5096-E1C0-4152-B318-75867781D528}|Samples.Debugging.Web.WebUI\\Samples.Debugging.Web.WebUI.csproj|solutionrelative:samples.debugging.web.webui\\pages\\expenses\\report.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Report.cshtml.cs",
+              "DocumentMoniker": "C:\\Scripts\\CSharpProjects\\c-sharp-10-debugging\\03\\demos\\code\\before\\Samples.Debugging.Web\\Samples.Debugging.Web.WebUI\\Pages\\Expenses\\Report.cshtml.cs",
+              "RelativeDocumentMoniker": "Samples.Debugging.Web.WebUI\\Pages\\Expenses\\Report.cshtml.cs",
+              "ToolTip": "C:\\Scripts\\CSharpProjects\\c-sharp-10-debugging\\03\\demos\\code\\before\\Samples.Debugging.Web\\Samples.Debugging.Web.WebUI\\Pages\\Expenses\\Report.cshtml.cs",
+              "RelativeToolTip": "Samples.Debugging.Web.WebUI\\Pages\\Expenses\\Report.cshtml.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T03:04:45.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Scripts\\CSharpProjects\\c-sharp-10-debugging\\03\\demos\\code\\before\\Samples.Debugging.Web\\Samples.Debugging.Web.WebUI\\Pages\\Expenses\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Samples.Debugging.Web.WebUI\\Pages\\Expenses\\Index.cshtml.cs",
+              "ToolTip": "C:\\Scripts\\CSharpProjects\\c-sharp-10-debugging\\03\\demos\\code\\before\\Samples.Debugging.Web\\Samples.Debugging.Web.WebUI\\Pages\\Expenses\\Index.cshtml.cs",
+              "RelativeToolTip": "Samples.Debugging.Web.WebUI\\Pages\\Expenses\\Index.cshtml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAEgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T03:37:03.448Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
