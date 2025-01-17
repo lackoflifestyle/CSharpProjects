@@ -13,7 +13,8 @@
         private int amountInStock = 0;
         private bool isBelowStockTreshold = false;
 
-        //ToDo: add price value
-
+        // TODO: add price value
+        // TODO: Figure out how to add to do items in the tree view
+        
     }
 }
