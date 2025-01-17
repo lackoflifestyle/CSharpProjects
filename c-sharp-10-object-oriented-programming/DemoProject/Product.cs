@@ -14,7 +14,6 @@
         private bool isBelowStockTreshold = false;
 
         // TODO: add price value
-        // TODO: Figure out how to add to do items in the tree view
-        
+
     }
 }
